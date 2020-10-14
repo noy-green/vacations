@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#header{
+  background-color: #6495ED;
+  height: 60px;
+  color: azure;
+}
+
+#login{
+  margin-top: 20px;
+}
+
+#main{
+  margin-top: 20px;
+}
+
+#mainPic{
+  height: 300px;
+  width: 600px;
+}
+
+.imgVac{
+  height:250px;
+  width: 250px;
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#vacations{
+   background-color: lavenderblush;
+}
+.App{
+  background-color:  lavenderblush;;
+  
+}
+
+h5{
+  background-color: azure;
+  
+}
+
+#search >*{
+   margin:10px;
+
+}
+#clear{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
